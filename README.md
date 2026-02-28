@@ -1,1 +1,0 @@
-# apps-static-app-order-picker
