@@ -1,1 +1,0 @@
-import{d5 as r,aU as t}from"./index-Dq4laGhN.js";const a=e=>{r(`OrderPicker | ${t(e)}`)};export{a as u};
