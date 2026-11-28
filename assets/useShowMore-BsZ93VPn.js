@@ -1,1 +1,0 @@
-import{r,N as n,bd as a,w as c}from"./index-Cm3H399R.js";const v=(e,o,u)=>{const t=r(o),h=n(()=>a(e).slice(0,t.value)),s=n(()=>Math.max(0,Math.min(u,a(e).length-t.value))),l=()=>{t.value+=s.value};return c(()=>a(e),()=>{t.value=o}),{items:h,nextCount:s,showMore:l}};export{v as u};
