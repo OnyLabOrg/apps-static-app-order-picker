@@ -1,0 +1,1 @@
+import{_ as o}from"./pick-customer.vue_vue_type_script_setup_true_lang-BP4U4oSx.js";import"./index-Cm3H399R.js";import"./VList-FwasS8Hp.js";import"./ssrBoot-B1ViS1BB.js";import"./createSimpleFunctional-DINbvkID.js";import"./VAvatar-Bj5Jxe29.js";import"./VImg-DJGOH-Cg.js";import"./index-DhhVvFvV.js";import"./VDivider-B4rSylXD.js";import"./VAlert-D-cAY2BZ.js";export{o as default};

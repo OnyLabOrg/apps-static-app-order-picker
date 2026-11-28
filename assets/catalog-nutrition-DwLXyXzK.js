@@ -1,0 +1,1 @@
+import{_ as o}from"./catalog-nutrition.vue_vue_type_script_setup_true_lang-_LSAQQwP.js";import"./index-Cm3H399R.js";import"./VRow-DoQv7auf.js";/* empty css              */import"./VChip-U6L2dsHl.js";import"./VSlideGroup-DOP2Cytg.js";import"./VAvatar-Bj5Jxe29.js";import"./VImg-DJGOH-Cg.js";import"./index-DhhVvFvV.js";export{o as default};
